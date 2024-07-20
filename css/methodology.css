@@ -1,0 +1,27 @@
+.container{
+    width: 1600px;
+    margin: 0 auto;
+    padding-top: 100px;
+}
+.container .product_xq{
+    width: 100%;
+    display: flex;
+}
+.container .product_xq .left{
+    width: 500px;
+    margin-right: 40px;
+}
+.container .product_xq .left img{
+    width: 100%;
+}
+.container .product_xq .right{
+    width: 1000px;
+    padding: 20px;
+}
+.container .product_xq .right>p{
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+.container .product_xq .right>span{
+    font-size: 18px;
+}
